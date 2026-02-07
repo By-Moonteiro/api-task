@@ -53,8 +53,18 @@ pnpm prisma:generate
 # Ou usando npm
 npm run prisma:generate
 ```
+**6. Gerando migration:**
+```bash
+# Usando pnpm
+pnpm prisma:migrate
 
-**6. Rodando em desenvolvimento:**
+# Ou usando npm
+npm run prisma:migrate
+```
+
+
+
+**7. Rodando em desenvolvimento:**
 ```bash
 # Usando pnpm
 pnpm dev
